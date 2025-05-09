@@ -37,10 +37,8 @@ Olá! Me chamo Ana Luiza, tenho 24 anos e sou natural de Viçosa, Minas Gerais. 
 <picture>
 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analuvidi/output/github-contribution-grid-snake-dark.svg">
-
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/analuvidi/output/github-contribution-grid-snake-dark.svg">
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/analuvidi/output/github-contribution-grid-snake-dark.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/analuvidi/analuvidi/output/github-contribution-grid-snake-dark.svg">
 </picture>
 <br><br>
 
