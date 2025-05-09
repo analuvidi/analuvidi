@@ -2,7 +2,7 @@
 
 **`Futura Dev FullStack`**
 
-Olá! Me chamo Ana Luiza, tenho 24 anos e sou natural de Viçosa, Minas Gerais. Concluí o ensino médio no Colégio Equipe em 2018 e, ao longo da minha jornada acadêmica, passei por duas graduações na área de ciências agrárias. Atualmente, curso Análise e Desenvolvimento de Sistemas na Univiçosa. Sempre fui apaixonada por tecnologia e, desde que ingressei nessa área, venho me dedicando a aprender e desenvolver soluções que aliam praticidade e usabilidade. Estou em constante evolução, buscando aplicar na prática tudo o que aprendo e construir uma base sólida para minha carreira como desenvolvedora FullStack.
+Olá! Me chamo Ana Luiza, tenho 24 anos e sou natural de Viçosa, Minas Gerais. Concluí o ensino médio no Colégio Equipe em 2018 e, ao longo da minha jornada acadêmica, passei por duas graduações na área de ciências agrárias. Atualmente, curso Análise e Desenvolvimento de Sistemas na Univiçosa. Sempre fui apaixonada por tecnologia e, desde que ingressei nessa área, venho me dedicando a aprender e desenvolver soluções que aliam praticidade e usabilidade. Estou em constante evolução, buscando aplicar na prática tudo o que aprendo e construir uma base sólida para minha carreira como desenvolvedora.
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -32,14 +32,6 @@ Olá! Me chamo Ana Luiza, tenho 24 anos e sou natural de Viçosa, Minas Gerais. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 
 <br/>
 <br/>
