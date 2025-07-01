@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Ana Luiza Vidigal
 
-Olá! Me chamo Ana Luiza, tenho 24 anos e sou natural de Viçosa, Minas Gerais. Concluí o ensino médio no Colégio Equipe em 2018 e, ao longo da minha jornada acadêmica, passei por duas graduações na área de ciências agrárias. Atualmente, curso Análise e Desenvolvimento de Sistemas na Univiçosa. Sempre fui apaixonada por tecnologia e, desde que ingressei nessa área, venho me dedicando a aprender e desenvolver soluções que aliam praticidade e usabilidade. Estou em constante evolução, buscando aplicar na prática tudo o que aprendo e construir uma base sólida para minha carreira como desenvolvedora.
+Olá! Meu nome é Ana Luiza, tenho 24 anos e sou natural de Viçosa, Minas Gerais. Concluí o ensino médio no Colégio Equipe em 2018 e, ao longo da minha trajetória acadêmica, fiz duas graduações na área de ciências agrárias. Atualmente, curso Análise e Desenvolvimento de Sistemas na Univiçosa, área pela qual sempre tive interesse e paixão.
+Desde que comecei nesse campo, venho me dedicando a aprender na prática e a desenvolver soluções que sejam funcionais e fáceis de usar. Estou em constante evolução, buscando aplicar meus conhecimentos para construir uma base sólida e crescer como desenvolvedora.
 
 <h3 align="left">Entre em contato comigo!</h3>
 
