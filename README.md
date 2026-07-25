@@ -8,17 +8,6 @@
   <em>Entusiasta de hardware e apaixonada por RPG.</em>
 </p>
 
-
-
-## 🌱 Atualmente
-
-- 🍹 **Go Drinking!** — Plataforma de gestão de eventos e Open Bar com controle de estoque de alta precisão. Atuo no **design (UX/UI)** e no **front-end**.
-- 🎨 **UX/UI no Figma** — Aplicando os meus estudos em UX/UI.
-- 🐍 **Python** — Estudando para ampliar meus conhecimentos.
-- 📚 Construindo projetos e evoluindo constantemente.
-
-
-
 ## 💻 Tecnologias e Ferramentas
 
 <p align="center">
@@ -30,3 +19,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+## 🌱 Atualmente
+
+- 🍹 **Go Drinking!** — Plataforma de gestão de eventos e Open Bar com controle de estoque de alta precisão. Atuo no **design (UX/UI)** e no **front-end**.
+- 🎨 **UX/UI no Figma** — Aplicando os meus estudos em UX/UI.
+- 🐍 **Python** — Estudando para ampliar meus conhecimentos.
+- 📚 Construindo projetos e evoluindo constantemente.
