@@ -8,7 +8,7 @@
   <em>Entusiasta de hardware e apaixonada por RPG.</em>
 </p>
 
----
+<p align="center">╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</p>
 
 ## 🛠️ Atualmente trabalhando em...
 
@@ -17,7 +17,7 @@
 - 🐍 **Python** — Estudando para ampliar meus conhecimentos.
 - 📚 Construindo projetos e evoluindo constantemente.
 
----
+<p align="center">╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</p>
 
 ## 🚀 Tech Stack
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+<p align="center">╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌</p>
 
 <p align="center">
   <i>"O sol sempre se erguerá"</i> ☀️
