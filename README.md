@@ -36,11 +36,6 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=analuvidi&show_icons=true&hide_border=true&theme=transparent&locale=pt-br" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuvidi&layout=compact&hide_border=true&theme=transparent&locale=pt-br" />
-</p>
-
-<p align="center">
   <img width="86%" src="https://streak-stats.demolab.com?user=analuvidi&theme=transparent&hide_border=true&locale=pt_BR" />
 </p>
 
