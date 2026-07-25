@@ -32,26 +32,3 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img width="86%" src="https://streak-stats.demolab.com?user=analuvidi&theme=transparent&hide_border=true&locale=pt_BR" />
-</p>
-
----
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/analuvidi/analuvidi/output/github-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/analuvidi/analuvidi/output/github-snake.svg">
-    <img
-      alt="Snake animation"
-      src="https://raw.githubusercontent.com/analuvidi/analuvidi/output/github-snake.svg">
-  </picture>
-</p>
-
----
