@@ -2,7 +2,7 @@
   <img src="./chrono-trigger-banner-gif.gif" width="100%" alt="Chrono Trigger Campfire">
 </p>
 
-<h1 align="center">🌿 Ana Luiza</h1>
+<h1 align="center">Ana Luiza</h1>
 
 <p align="center">
   <em>Entusiasta de hardware e apaixonada por RPG.</em>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-## 🌱 Atualmente
+## Atualmente
 
 - 🍹 **Go Drinking!** — Plataforma de gestão de eventos e Open Bar com controle de estoque de alta precisão. Atuo no **design (UX/UI)** e no **front-end**.
 - 🎨 **UX/UI no Figma** — Aplicando os meus estudos em UX/UI.
