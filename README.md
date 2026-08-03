@@ -8,7 +8,7 @@
   <em>Entusiasta de hardware e apaixonada por RPG.</em>
 </p>
 
-<h2 align="center">💻 "It's dangerous to go alone! Take this."</h2>
+<h2 align="center">"It's dangerous to go alone! Take this."</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
