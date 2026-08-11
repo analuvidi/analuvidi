@@ -2,12 +2,6 @@
   <img src="./chrono-trigger-banner-gif.gif" width="100%" alt="Chrono Trigger Campfire">
 </p>
 
-<h1 align="center">Ana Luiza</h1>
-
-<p align="center">
-  <em>Entusiasta de hardware e apaixonada por RPG.</em>
-</p>
-
 <h2 align="center">"It's dangerous to go alone! Take this."</h2>
 
 <p align="center">
