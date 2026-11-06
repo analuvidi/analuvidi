@@ -14,5 +14,5 @@
 
 ## Atualmente
 
-- - 🚗 **SisVaga** — Projeto acadêmico desenvolvido em grupo, com foco no monitoramento inteligente de vagas de estacionamento em tempo real, utilizando ESP32, sensores ultrassônicos e interface web.
+- 🚗 **SisVaga** — Projeto acadêmico desenvolvido em grupo, com foco no monitoramento inteligente de vagas de estacionamento em tempo real, utilizando ESP32, sensores ultrassônicos e interface web.
 - 🐍 **Python** — Estudando para ampliar meus conhecimentos.
