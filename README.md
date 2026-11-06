@@ -14,6 +14,5 @@
 
 ## Atualmente
 
-- 🍹 **Go Drinking!** — Plataforma de gestão de eventos e Open Bar com controle de estoque de alta precisão. Atuo no **design (UX/UI)** e no **front-end**.
-- 🎨 **UX/UI no Figma** — Aplicando os meus estudos em UX/UI.
+- 🚗 **SisVaga** — Sistema de Monitoramento Inteligente de Vagas.
 - 🐍 **Python** — Estudando para ampliar meus conhecimentos.
